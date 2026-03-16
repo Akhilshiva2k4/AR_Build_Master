@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Markers
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5056136511046177140
+  m_GuidHigh: 177497245567441066
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5673409000465352004
+      m_GuidHigh: 3975201825632031645
+    m_SerializedTextureGuid:
+      m_GuidLow: 6720729738801485581
+      m_GuidHigh: 10891598213398857160
+    m_Size: {x: 0.2, y: 0.19513229}
+    m_SpecifySize: 0
+    m_Name: Sofa
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4931280372586022607
+      m_GuidHigh: 15850247942205282484
+    m_SerializedTextureGuid:
+      m_GuidLow: 3874296969034601660
+      m_GuidHigh: 13785623948493694185
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Teapoy
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5551786979779502705
+      m_GuidHigh: 7448608645356410037
+    m_SerializedTextureGuid:
+      m_GuidLow: 3342853590314695145
+      m_GuidHigh: 15992602827010923896
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: LargeSofa
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5316458385728691771
+      m_GuidHigh: 13329944476072053679
+    m_SerializedTextureGuid:
+      m_GuidLow: 1473979119701876888
+      m_GuidHigh: 16536164829668971113
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Crib
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5073371634934048661
+      m_GuidHigh: 7249343075067761052
+    m_SerializedTextureGuid:
+      m_GuidLow: 12332188743204621958
+      m_GuidHigh: 8056560461013534185
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Chair
+    m_Texture: {fileID: 0}
